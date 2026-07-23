@@ -1,7 +1,7 @@
 # 👩‍💻 Ömrüm Ceren Güler
-**Software Engineering Student | AI & Backend Developer**
+**Software Engineering Graduate | AI & Backend Developer**
 
-Welcome to my personal repository! I am a Software Engineering student at Eastern Mediterranean University (ABET-accredited) and a former **AI Software Engineering Project Intern at Microsoft**, specializing in Python, FastAPI, and offline-first RAG architectures.
+Welcome to my personal repository! I am a Software Engineering graduate from Eastern Mediterranean University (ABET-accredited) and a former **AI Software Engineering Project Intern at Microsoft**, specializing in Python, FastAPI, and offline-first RAG architectures.
 
 Here you can access my official resume and project portfolio.
 
